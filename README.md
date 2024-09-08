@@ -1,3 +1,3 @@
 # Feedback-controler
 
-This device is an test to see if its posible to maintain a FOC command and a ST7798 screen at the same time on a STM32-S3
+This device is a test to determine whether it is possible to maintain FOC control of a motor while simultaneously driving an ST7798 display on an STM32-S3.
